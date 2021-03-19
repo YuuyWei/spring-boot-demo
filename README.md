@@ -25,7 +25,7 @@ The demo project uses MySQL 8.0.22,
 ![Phone Store ER Diagram](ERDiagram.png)
 
 ## RESTful API
-[Here]() is the API file.
+[Here](API.md) is the API file.
 
 ## Part of Backend
 The backend part is mainly constructed with Spring Boot including
